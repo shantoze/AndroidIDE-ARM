@@ -6,7 +6,7 @@ This bash script will install NDK to [AndroidIDE](https://github.com/itsaky/Andr
 1. Download the NDK installation script:
 
    ```bash
-   cd && pkg upgrade && pkg install wget && wget https://github.com/MrIkso/AndroidIDE-NDK/raw/main/ndk-install.sh --no-verbose --show-progress -N && chmod +x ndk-install.sh && bash ndk-install.sh
+   cd && pkg upgrade && pkg install wget && wget https://github.com/shantoze/AndroidIDE-ARM/raw/main/ndk-install.sh --no-verbose --show-progress -N && chmod +x ndk-install.sh && bash ndk-install.sh
    ```
 
 2. Choose your required NDK version from the list by entering the numbers provided and wait for the installation to complete.
